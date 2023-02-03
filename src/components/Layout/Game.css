@@ -1,0 +1,6 @@
+#game-field {
+	position: relative;
+	background-color: black;
+	height: 80%;
+	width: 50%;
+}
